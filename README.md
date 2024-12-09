@@ -6,19 +6,12 @@ Me chamo Mariane Andrade, tenho 23 anos e sou de São Paulo-SP. Atualmente estou
 
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/mariane-andrade-21277b300/">
-        <img 
-            alt="LinkedIn" 
-            title="Perfil LinkedIn"
-            src="https://custom-icon-badges.demolab.com/github/stars/MarianeAndrade28?color=7558DB&style=for-the-badge&labelColor=8979F2&logo=linkedin&label=LinkedIn"
-        />
-    </a>
-    <a href="https://github.com/MarianeAndrade28?tab=repositories&sort=stargazers">
-        <img 
-            alt="Meus Repositórios" 
-            title="Meus Repositórios"
-            src="https://custom-icon-badges.demolab.com/github/stars/MarianeAndrade28?color=45C4B0&style=for-the-badge&labelColor=00A9AB&logo=book&label=Repositórios"
-        />
+    <a href="https://www.linkedin.com/in/mariane-andrade-21277b300/" target="_blank">
+    <img 
+        alt="LinkedIn" 
+        title="Perfil LinkedIn"
+        src="https://custom-icon-badges.demolab.com/github/stars/MarianeAndrade28?color=7558DB&style=for-the-badge&labelColor=8979F2&logo=linkedin&label=LinkedIn"
+    />
     </a>
     <a href="https://github.com/MarianeAndrade28?tab=followers">
         <img 
