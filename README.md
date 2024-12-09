@@ -17,7 +17,7 @@ Me chamo Mariane Andrade, tenho 23 anos e sou de São Paulo-SP. Atualmente estou
         <img 
             alt="Meus Repositórios" 
             title="Meus Repositórios" 
-            src="https://custom-icon-badges.demolab.com/github/stars/MarianeAndrade28?color=45C4B0&style=for-the-badge&labelColor=00A9AB&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/MarianeAndrade28?color=45C4B0&style=for-the-badge&labelColor=00A9AB&logo=book&label=Repositórios"
         />
     </a>
     <a href="https://github.com/MarianeAndrade28?tab=followers">
