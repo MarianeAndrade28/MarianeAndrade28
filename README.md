@@ -80,7 +80,7 @@ Me chamo Mariane Andrade, tenho 23 anos e sou de São Paulo-SP. Atualmente estou
 
 ### 📊 Estatísticas
 
-<p>
+<p style="display: flex; justify-content: space-between; align-items; center;">
   <img 
     align="left" 
     alt="GitHub Stats" 
