@@ -6,7 +6,7 @@ Me chamo Mariane Andrade, tenho 23 anos e sou de São Paulo-SP. Atualmente estou
 
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/mariane-andrade-21277b300/" target="_blank";>
+    <a href="https://www.linkedin.com/in/mariane-andrade-21277b300/">
     <img 
         alt="LinkedIn" 
         title="Perfil LinkedIn"
