@@ -2,7 +2,7 @@
 
 **Desenvolvedora Full Stack**
 
-Me chamo Mariane Andrade, tenho 23 anos e sou de São Paulo-SP. Atualmente estou cursando Gestão da Tecnologia da Informação na UNINTER. Sou uma estudante aplicada e apaixonada por tecnologia, sempre buscando aprender e desenvolver novas habilidades.
+Me chamo Mariane Andrade, tenho 23 anos e sou de São Paulo-SP. Atualmente estou cursando Gestão da Tecnologia da Informação na UNINTER, sou uma estudante aplicada de programação e tecnologia da informação, com paixão por aprender e desenvolver habilidades.
 
 
 <p align="left">
