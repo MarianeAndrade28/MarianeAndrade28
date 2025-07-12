@@ -2,7 +2,7 @@
 
 **Desenvolvedora Full Stack**
 
-Meu nome é Mariane, tenho 23 anos e sou de São Paulo - SP. Atualmente estou cursando Gestão da Tecnologia da Informação na UNINTER, onde tenho aprendido bastante sobre tecnologia e gestão. Além disso, tenho buscado conhecimentos por fora, em cursos de programação e afins.
+Meu nome é Mariane, tenho 23 anos e sou de São Paulo - SP. Atualmente estou cursando Gestão da Tecnologia da Informação na UNINTER, onde tenho aprendido bastante sobre tecnologia e gestão. Além disso, tenho buscado conhecimentos por fora, em cursos de programação e afins como podemos observar abaixo.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/mariane-andrade-21277b300/">
