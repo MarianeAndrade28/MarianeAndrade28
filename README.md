@@ -1,4 +1,4 @@
-# 🍁 Mariane Andrade
+# 🎓 Mariane Andrade
 
 **Desenvolvedora Web**
 
@@ -23,7 +23,7 @@ Meu nome é Mariane, tenho 23 anos e sou de São Paulo - SP. Atualmente estou cu
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🖥️ Linguagens e Tecnologias
 
 <img 
     align="left" 
