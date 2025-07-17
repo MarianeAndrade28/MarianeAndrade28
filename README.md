@@ -22,8 +22,8 @@ Meu nome é Mariane, tenho 23 anos e sou de São Paulo - SP. Atualmente estou cu
 </p>
 
 ---
-
 <h3 align="center">🖥️ Linguagens e Tecnologias</h3>
+<br/>
 <br/>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="40" style="margin-right: 20px;" />
@@ -31,12 +31,13 @@ Meu nome é Mariane, tenho 23 anos e sou de São Paulo - SP. Atualmente estou cu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" style="margin-right: 20px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="40" />
 </p>
-
+<br/>
 <br/>
 
 ---
 <h3 align="center">📊 Estatísticas</h3>
 
+<br/>
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=MarianeAndrade28&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
