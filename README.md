@@ -9,14 +9,14 @@ Meu nome é Mariane, e sou estudante de Gestão da Tecnologia da Informação na
     <img 
         alt="LinkedIn" 
         title="Perfil LinkedIn"
-        src="https://custom-icon-badges.demolab.com/github/stars/MarianeAndrade28?color=7558DB&style=for-the-badge&labelColor=8979F2&logo=linkedin&label=LinkedIn"
+        src="https://custom-icon-badges.demolab.com/github/stars/MarianeAndrade28?color=cccccc&style=for-the-badge&labelColor=f7f9f7&logo=linkedin&label=LinkedIn"
     />
     </a>
     <a href="https://github.com/MarianeAndrade28?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/MarianeAndrade28?color=3565F2&labelColor=0db59b&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/MarianeAndrade28?color=038569&labelColor=0db59b&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
