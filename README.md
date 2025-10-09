@@ -16,7 +16,7 @@ Meu nome é Mariane, e sou estudante de Gestão da Tecnologia da Informação na
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/MarianeAndrade28?color=3565F2&labelColor=447EF2&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/MarianeAndrade28?color=3565F2&labelColor=0db59b&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
