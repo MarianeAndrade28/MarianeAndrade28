@@ -1,56 +1,66 @@
-# 🎓 Mariane Andrade
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0db59b&textBg=false&reversal=true" >
 
-**Desenvolvedora Web**
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0DB59B&width=435&lines=Hi!+My+name+is+Mari" alt="Typing SVG">
+    <br>
+</div>
 
-Meu nome é Mariane, e sou estudante de Gestão da Tecnologia da Informação na UNINTER. Onde tenho aprendido bastante sobre tecnologia e gestão. Além disso, tenho buscado conhecimentos por fora, em cursos de programação e afins como podemos observar abaixo.
+<div align="center">
+    <table>
+        <tr>
+            <td align="center">
+                <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarianeAndrade28&theme=gotham" alt="Profile Details">
+            </td>
+            <td align="center">
+                <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarianeAndrade28&theme=gotham" alt="Repos per Language">
+            </td>
+            <td align="center">
+                <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarianeAndrade28&theme=gotham&utcOffset=8" alt="Productive Time">
+            </td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <td align="center">
+                <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarianeAndrade28&theme=gotham" alt="Stats Card">
+            </td>
+            <td align="center">
+                <a href="https://git.io/streak-stats">
+                    <img src="https://github-readme-streak-stats.herokuapp.com?user=MarianeAndrade28&theme=gotham&hide_border=true&short_numbers=false" alt="GitHub Streak">
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/mariane-andrade-21277b300/">
-    <img 
-        alt="LinkedIn" 
-        title="Perfil LinkedIn"
-        src="https://custom-icon-badges.demolab.com/github/stars/MarianeAndrade28?color=cccccc&style=for-the-badge&labelColor=f7f9f7&logo=linkedin&label=LinkedIn"
-    />
-    </a>
-    <a href="https://github.com/MarianeAndrade28?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/MarianeAndrade28?color=038569&labelColor=0db59b&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+<a href="https://www.linkedin.com/in/mariane-andrade-s010/" taget="_blank">
+    <img src="https://img.shields.io/badge/linkedin-0db59b?style=for-the-badge&logo=Linkedin" alt="LinkedIn Badge">
+</a>
+
+<br>
+<br>
 
 ---
-<h3 align="center">🖥️ Linguagens e Tecnologias</h3>
-<br/>
-<br/>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="50" style="margin-right: 20px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="50" style="margin-right: 20px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="50" style="margin-right: 20px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="50" />
-</p>
-<br/>
-<br/>
+### Tecnologias e Linguagens
+<br>
+<div align="center">
+    <img width="50" alt="image" src="https://github.com/user-attachments/assets/50a35649-dffe-4d96-abca-29a168a63b39" />
+    <img width="50" alt="image" src="https://github.com/user-attachments/assets/898fbcab-67b3-4891-8e97-02a3824a406a" />
+    <img width="50" alt="image" src="https://github.com/user-attachments/assets/da70b453-cd03-4d16-96b2-002b5593bdcd" />
+    <img width="50" alt="image" src="https://github.com/user-attachments/assets/9f4496dd-6c78-4844-ab1e-82be909c0a54" />
+    <img width="50" alt="image" src="https://github.com/user-attachments/assets/08beacb2-5f6c-4fe9-9f5d-266ea8a4c3fb" />
+    <img width="50" alt="image" src="https://github.com/user-attachments/assets/9cf8667d-11dd-429e-93e2-ee308b4ec7b0" />
+    <img width="50" alt="image" src="https://github.com/user-attachments/assets/d6c541f4-f065-43a5-929c-47c961f8f18e" />
+    <img width="50" alt="image" src="https://github.com/user-attachments/assets/3f2b6681-5fe5-4c95-bf7c-6ec4eff5a00c" />
+    <img width="50" alt="image" src="https://github.com/user-attachments/assets/d870a81c-ca64-4354-9901-2f155bf37a7b" />
+</div>
 
 ---
-<h3 align="center">📊 Estatísticas</h3>
+### Contato
+<div>
+    <a href="mailto:mariane.andrade010@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0db59b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+</a>
+</div>
 
-<br/>
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=MarianeAndrade28&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    alt="GitHub Stats" 
-    width="60%" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianeAndrade28&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
-    alt="Top Langs" 
-    width="60%" 
-  />
-</p>
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0db59b&textBg=false&reversal=true&section=footer">
