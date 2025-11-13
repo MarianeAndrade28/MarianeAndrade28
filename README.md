@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0db59b&textBg=false&reversal=true" >
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0DB59B&width=435&lines=Hi!+My+name+is+Mari" alt="Typing SVG">
-    <br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0DB59B&width=435&lines=Welcome+to+my+GitHub!" alt="Typing SVG">
 </div>
+<br>
 
 <div align="center">
     <table>
@@ -32,6 +32,10 @@
         </tr>
     </table>
 </div>
+<br>
+
+### Visite também o meu LinkedIn!
+<br>
 
 <a href="https://www.linkedin.com/in/mariane-andrade-s010/" taget="_blank">
     <img src="https://img.shields.io/badge/linkedin-0db59b?style=for-the-badge&logo=Linkedin" alt="LinkedIn Badge">
@@ -56,7 +60,9 @@
 </div>
 
 ---
-### Contato
+### E-mail para Contato
+
+<br>
 <div>
     <a href="mailto:mariane.andrade010@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-0db59b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
