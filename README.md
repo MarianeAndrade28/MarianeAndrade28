@@ -34,7 +34,7 @@
 </div>
 <br>
 
-### Visite também o meu LinkedIn!
+**Visite também o meu LinkedIn!**
 <br>
 
 <a href="https://www.linkedin.com/in/mariane-andrade-s010/" taget="_blank">
@@ -45,7 +45,7 @@
 <br>
 
 ---
-### Tecnologias e Linguagens
+### ◽ Tecnologias e Linguagens:
 <br>
 <div align="center">
     <img width="50" alt="image" src="https://github.com/user-attachments/assets/50a35649-dffe-4d96-abca-29a168a63b39" />
@@ -60,7 +60,7 @@
 </div>
 
 ---
-### E-mail para Contato
+### ◽ Contato:
 
 <br>
 <div>
