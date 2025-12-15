@@ -37,7 +37,7 @@
 **Visite também o meu LinkedIn!**
 <br>
 
-<a href="https://www.linkedin.com/in/mariane-andrade-s010/" taget="_blank">
+<a href="www.linkedin.com/in/marianeandrade010" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0db59b?style=for-the-badge&logo=Linkedin" alt="LinkedIn Badge">
 </a>
 
